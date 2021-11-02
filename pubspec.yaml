@@ -3,7 +3,7 @@ description: A new Flutter project.
 version: 0.0.1
 authors:
   - Mohamed Samir Salem <mohamedkhalilalmasri@gmail.com>
-homepage:
+homepage: https://github.com/Mohamed-7018/Flutter-flurry-drawer-package
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
