@@ -1,8 +1,6 @@
 name: flutter_flurry_drawer
 description: A new Flutter project.
 version: 0.0.1
-authors:
-  - Mohamed Samir Salem <mohamedkhalilalmasri@gmail.com>
 homepage: https://github.com/Mohamed-7018/Flutter-flurry-drawer-package
 
 environment:
