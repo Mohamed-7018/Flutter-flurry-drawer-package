@@ -225,7 +225,7 @@ Default curve radius is
 
  - 'bgColor' : The menu screen background color can be customized, the default background color is the scaffold background color
 
- - 'bottomSection' : when the content page animated, a space appears below the content screen, so we can use this screen to add some widgets his widget is known as bottomSection. The default bottom section widget is the container\
+ - 'bottomSection' : when the content page animated, a space appears below the content screen, so we can use this screen to add some widgets his widget is known as bottomSection. The default bottom section widget is the container
 
 ## MenuItem widget
 - 'selectedBtnColor' : The color of the selected menu item can be customized. The default color is Color.fromRGBO(38, 198, 218, 1),
