@@ -11,10 +11,10 @@
 [![Latest compatibility result for Dev channel](https://img.shields.io/endpoint?url=https://pub.green/packages/bottom_navy_bar/badge?channel=dev)](https://pub.green/packages/bottom_navy_bar)
 
 
-<a href="https://flutter.dev/docs/development/packages-and-plugins/favorites">
+<!-- <a href="https://flutter.dev/docs/development/packages-and-plugins/favorites">
 <img height="128" src="https://github.com/pedromassango/bottom_navy_bar/blob/master/images/flutter_favorite_badge.png">
 </a>
-<br><br>
+<br><br> -->
 
 # flutter_flurry_drawer
 
