@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_flurry_drawer:
-    git: "https://github.com/Mohamed-7018/Flutter-flurry-drawer-package"
+  flutter_flurry_drawer: 0.0.1
+    #git: "https://github.com/Mohamed-7018/Flutter-flurry-drawer-package"
 
   cupertino_icons: ^1.0.2
 
